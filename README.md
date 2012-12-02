@@ -3,6 +3,7 @@ Solarized
 ## Precision colors for machines and people
 
 Project Home: http://ethanschoonover.com/solarized
+
 Collection of implementations: http://github.com/solarized
 
 Xresources Color Scheme
